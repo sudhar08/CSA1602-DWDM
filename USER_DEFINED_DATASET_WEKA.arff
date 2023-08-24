@@ -1,0 +1,11 @@
+@relation data
+@attribute conditions{sunny,cloudy,rainy}
+@attribute temperature numeric
+@attribute label{yes,no}
+@data
+sunny  10  yes
+rainy  20  no
+rainy  30  yes
+sunny  40  yes
+cloudy 50  yes
+cloudy 60  no
